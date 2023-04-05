@@ -34,8 +34,8 @@ class App:
         out = '''
 File ricevuto.<br />
 Nome File: {}<br />
-Dimensione: {}<br /> 
-Mime-type: {} bytes
+Dimensione: {} bytes<br /> 
+Mime-type: {}
 ''' .format(ufile.filename, size, ufile.content_type, data)
         return out
 
