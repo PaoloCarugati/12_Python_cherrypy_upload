@@ -1,0 +1,10 @@
+upload:
+https://riptutorial.com/cherrypy/example/25395/file-upload-with-cherrypy
+https://www.geeksforgeeks.org/upload-file-and-read-its-content-in-cherrypy-python/
+https://stackoverflow.com/questions/13002676/python-sending-and-receiving-large-files-over-post-using-cherrypy
+
+
+python os:
+https://docs.python.org/3/library/os.html
+https://www.tutorialsteacher.com/python/os-module
+https://www.digitalocean.com/community/tutorials/python-os-module
